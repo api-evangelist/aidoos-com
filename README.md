@@ -66,7 +66,7 @@
 
 AiDOOS provides outcome-based delivery through Virtual Delivery Centers (VDCs), enabling enterprises to outsource and manage complex projects with a focus on results, flexibility, and scalability. The platform offers tools for building, managing, and optimizing VDCs, along with resources, case studies, and pricing options for various industries.
 
-**Areas:** Company · VirtualDelivery · Outsourcing · Enterprise · Platform
+**Areas:** Company · Virtual Delivery · Outsourcing · Enterprise · Platform
 
 ## AiDOOS on APIs.io
 
@@ -80,13 +80,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aidoos Com Domain Security](https://apis.io/security/aidoos-com/aidoos-com-domain-security/)
+- [AiDOOS Domain Security](https://apis.io/security/aidoos-com/aidoos-com-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aidoos Com Plans Pricing](https://apis.io/plans/aidoos-com/aidoos-com-plans-pricing/)
+- [AiDOOS Plans Pricing](https://apis.io/plans/aidoos-com/aidoos-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -100,7 +100,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aidoos-com/](https://apis.io/providers/aidoos-com/).
+**Kin Score 17.7** — emerging · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 63.8 |
+
+**Agent readiness 5.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aidoos-com/](https://apis.io/providers/aidoos-com/).
 
 ## How this profile is made
 
